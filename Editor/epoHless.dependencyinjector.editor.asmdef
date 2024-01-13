@@ -1,0 +1,16 @@
+{
+    "name": "epoHless.dependencyinjector.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:18b53de1d058a094d84215c3d270294e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

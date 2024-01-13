@@ -1,0 +1,13 @@
+{
+    "name": "com.epohless.dependencyinjector",
+    "version": "0.0.1",
+    "displayName": "Dependency Injector",
+    "description": "Lightweight injection system for Unity",
+    "unity": "2022.3",
+    "unityRelease": "0f1",
+    "author": {
+      "name": "epohless",
+      "email": "kevinsalimbeni@gmail.com",
+      "url": "https://www.epohless.me/"
+    }
+  }
